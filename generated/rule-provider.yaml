@@ -41,7 +41,7 @@ payload:
 - DOMAIN,fclog.baidu.com
 - DOMAIN,gsp0.baidu.com
 - DOMAIN,hm.baidu.com
-- DOMAIN,www.baidu.com
+
 - DOMAIN,tiebac.baidu.com
 - IP-CIDR,180.76.76.0/24,no-resolve
 - DOMAIN,httpsdns.baidu.com
